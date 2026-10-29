@@ -1,0 +1,15 @@
+{
+  "name": "pin-float",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pin images as small always-on-top windows you can move, resize and overlay",
+  "author": "Buse Turgay Sönmez",
+  "license": "MIT",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^44.4.3"
+  }
+}
